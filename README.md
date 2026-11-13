@@ -227,7 +227,7 @@ The following links provide access to the supporting evidence uploaded to this r
 **LinkedIn:** [Tishayna McFarlane](https://www.linkedin.com/in/tishayna-mcfarlane-3417107b/)  
 **Programme:** Cybersecurity Programme at Networkwalks  
 **Reporting Week:** Week 02  
-**Repository:** [GitHub – Week 02 Penetration Testing](https://github.com/KhandiGr/NETWORKWALKS-B084-WK2-PM2-PM5-PENETRATION-TESTING)
+
 
 ---
 
