@@ -1,3 +1,3 @@
 # PM3 – Maltego
 
-This folder contains screenshots documenting the FOOTp with Maltego practical exercise.
+This folder contains screenshots documenting the Maltego domain reconnaissance practical exercise.
